@@ -1,0 +1,3 @@
+[submodule "HeartEngine"]
+	path = HeartEngine
+	url = https://github.com/NocturnalWisp/HeartEngine.git

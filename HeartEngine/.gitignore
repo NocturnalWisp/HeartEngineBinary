@@ -1,3 +1,12 @@
+.idea/
+.vscode/
+.vs/
+cmake-build-debug/
+bin/
+build/
+out/
+CMakeSettings.json
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -9,6 +18,3 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-
-[Bb]uild/
-.vscode
